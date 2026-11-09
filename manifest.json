@@ -4,7 +4,9 @@
     "description": "A dictionary for Ulauncher",
     "developer_name": "Rashika",
     "icon": "dictionary-icon.png",
-    "query_debounce": 0.4,
+    "options":{
+            "query_debounce": 0.4
+    },
     "preferences": [
         {
             "id": "kw",
