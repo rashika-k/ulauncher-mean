@@ -3,7 +3,8 @@
     "name": "Mean",
     "description": "A dictionary for Ulauncher",
     "developer_name": "Rashika",
-    "icon": "/dictionary-icon.png",
+    "icon": "dictionary-icon.png",
+    "query_debounce": 0.4,
     "preferences": [
         {
             "id": "kw",
