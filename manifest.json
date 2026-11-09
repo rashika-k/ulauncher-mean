@@ -1,0 +1,17 @@
+{
+    "required_api_version": "^2.0.0",
+    "name": "Mean",
+    "description": "A dictionary for Ulauncher",
+    "developer_name": "Rashika",
+    "icon": "/dictionary-icon.png",
+    "preferences": [
+        {
+            "id": "kw",
+            "type": "keyword",
+            "name": "Mean",
+            "description": "Keyword mean to trigger the extension",
+            "default_value": "mean"
+        }
+    ]
+
+}
